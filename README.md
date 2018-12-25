@@ -1,2 +1,2 @@
 # git-test
-![kot](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg) 
+![kot](https://github.com/DariyaZ/git-test/blob/master/sebek.jpg) 
